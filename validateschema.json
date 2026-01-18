@@ -1,0 +1,14 @@
+{
+  "type":"object",
+
+    "prroperties":{"name":"type : "string",
+            "age":{"type":"integer"}
+
+
+    },
+  "required":["name","age"]
+
+
+
+}
+
